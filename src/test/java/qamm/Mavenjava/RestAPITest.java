@@ -16,5 +16,9 @@ public class RestAPITest {
 	public void jira()
 	{
 		System.out.println("JIRA board");
+		
+		System.out.println("JIRA board 1");
+		
+		System.out.println("JIRA board 2");
 	}
 }
