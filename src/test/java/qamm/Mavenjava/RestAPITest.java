@@ -8,6 +8,8 @@ public class RestAPITest {
 	public void postBug()
 	{
 		System.out.println("Bug in JIRA");
+		System.out.println("Bug in JIRA1");
+		System.out.println("Bug in JIRA3");
 	}
 
 	@Test
