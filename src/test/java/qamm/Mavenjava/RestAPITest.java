@@ -27,5 +27,12 @@ public class RestAPITest {
 		
 		System.out.println("Test Case Repository");
 	}
+	
+
+	@Test(priority =1)
+	public void jenkins() {
+		
+		System.out.println("Automation Test Case Repository");
+	}
 }
 
