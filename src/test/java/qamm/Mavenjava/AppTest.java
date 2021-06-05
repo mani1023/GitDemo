@@ -17,4 +17,10 @@ public class AppTest
     {
         assertTrue( true );
     }
+    
+    @Test
+    public void tes2()
+    {
+        System.out.println("Test pass 2");
+    }
 }

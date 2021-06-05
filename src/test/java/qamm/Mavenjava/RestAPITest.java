@@ -21,4 +21,11 @@ public class RestAPITest {
 		
 		System.out.println("JIRA board 2");
 	}
+	
+	@Test
+	public void qTest() {
+		
+		System.out.println("Test Case Repository");
+	}
 }
+

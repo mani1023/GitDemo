@@ -15,5 +15,10 @@ public class ApiumTest {
 	{
 		System.out.println("IOS app");
 	}
-	
+
+	@Test
+	public void ipad()
+	{
+		System.out.println("IOS ipad app");
+	}
 }
